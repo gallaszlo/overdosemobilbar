@@ -1,0 +1,15 @@
+{
+  "mainPage": "Főoldal",
+  "news": "Hírek",
+  "aboutUs": "Rólunk",
+  "contact": "Kapcsolat",
+  "gallery": "Galéria",
+  "galleryTitle": "Overdose Mobil Bár galéria",
+  "topPageButton": "Ugrás a lap tetejére",
+  "aboutUsText": "<p>Az Overdose Mobil Bár megalakulása két jóbarát közös munkájának eredménye.</p><p>A társasági élet szeretete és a minőségi szórakoztatás iránti vágy, illetve a mindkettőnk részéről régóta meglévő vendéglátás utáni érdeklődésünk eredményeként vágtunk bele italbárunk elindításába.</p><p>Hosszas keresgélés után találtunk rá erre a csodálatos állapotban lévő 1984-es évjáratú Westfalia típusú lószállító utánfutóra. Hatalmas lelkesedésünktől motiváltan azonnal hozzá is kezdtünk átalakításához, mely közel sem bizonyult olyan egyszerű feladatnak mint ahogyan azt elsőre gondoltuk.</p><p>A sok „tíz perc az egész” mondattal kezdődő miniprojektekből egészen az éjszakákba nyúló szereléseken át vezetetett az út a jelenlegi állapot eléréséhez. Mindketten a 100%-os végeredményre törekszünk, nem ismerünk kompromisszumot, így minden egyes apró részlet kidolgozása során a maximális elszántság vezérelt bennünket. A folyamatos fejlődés hívei vagyunk, így törekszünk az újabbnál újabb ötleteink megvalósítására, legyen szó éppen egy-egy dekorelem elkészítéséről, vagy a bár továbbfejlesztéséről.</p><p>Egy kis vállalkozást sikerre vinni nem a legegyszerűbb feladatok egyike, de úgy gondoljuk jó úton járunk célunk elérésének érdekében.</p><p>Legalább annyi örömteli és felejthetetlen pillanatot kívánunk bárunkkal szerezni számotokra, mint amennyivel mi gazdagodtunk az elkészítése során.</p>",
+  "name": "Név",
+  "phone": "Telefon",
+  "subject": "Tárgy",
+  "message": "Üzenet",
+  "send": "Küldés"
+}
